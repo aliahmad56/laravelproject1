@@ -1,0 +1,134 @@
+body{
+    overflow-x: hidden;
+}
+
+.customcolor{
+ color: #E87503;
+ font-weight: 600;
+}
+.navbarNav1{
+    margin-left: 80px;
+}
+.navbarNav2{
+    margin-left: 280px;
+}
+.nav-item{
+    padding: 0 px 12px;
+}
+.search{
+    width: 20%;
+    justify-content: center;
+    margin-left: 350px;
+    margin-top: 15px;
+    border-radius: 0px;
+ 
+}
+
+.search2{
+    display: flex;
+    justify-content: end;
+    margin-left: 615px;
+    width: 20%;
+    margin-top: -37px;
+    border-radius: 0px;
+}
+
+.headbutton{
+display: flex;
+justify-content: right;
+margin-right: 330px;
+margin-top: -58px;
+margin-bottom: 20px;
+border-radius: 0px;
+
+}
+.headdivider{
+    height:5px; 
+    background-color: #E87503
+}
+#headimage{
+  margin-top: -60px;
+  width: 15%;
+  margin-left: 30px;
+
+}
+
+.rowcustom{
+    margin-left: 100px;
+    
+}
+.custompadding{
+    padding-right: 15px;
+}
+
+.dropdown{
+
+    background-color: white;
+    color: black;
+    margin-top: 50px;
+}
+#dropdownMenu2{
+    background-color: white;
+    height: 40px;
+    width: 200px;
+    margin-left: 120px;
+}
+.setimages{
+  
+    width: 100%;
+    padding: 0px 0px;
+
+}
+
+.customall{
+    display: flex;
+ 
+    margin-top: -36px;
+    margin-left: 200px;
+    font-size: 12px;
+    padding: 0px 0px;
+
+}
+
+.butonstyle{
+    width: 72px;
+    height: 40px;
+    padding:0px 0px;
+    background-color: #F56505;
+    margin-top: 5px;
+}
+
+.card_ul_content{
+    display: flex;
+    justify-content: flex-end;
+   margin-top: -88px;
+}
+.cardend{
+background: #e87503;
+}
+
+.secondlastdiv{
+  
+    height: 130px; 
+    width: 50%; 
+    background-color: #FFEEDE;
+}
+.fotericon{
+    list-style-type: none;
+}
+
+.myli{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+ margin-left: 800px;
+    border-radius: 80px;
+   
+}
+.foter_icon_padding{
+    padding-right: 10px;
+}
+
+.custom_graph{
+    font-size: small;
+}
